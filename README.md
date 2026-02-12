@@ -7,7 +7,7 @@ super basic ls written in rust
 this is made to be super simple and having no features is part of the design
 
 # how to install?
-make sure rust and git are installed:
+make sure that rust and git are installed:
 
 1. git clone https://github.com/Shadyshift/ls-rustified/
 2.  cd ls-rustified
