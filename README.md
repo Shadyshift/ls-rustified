@@ -12,3 +12,7 @@ make sure rust and git are installed:
 1. git clone https://github.com/Shadyshift/ls-rustified/
 2.  cd ls-rustified
 3. cargo run 
+
+
+# why?
+Because it is very simple and very tiny. the function of ls is very simple, so the code needs to be also very simple. And because I am still learning rust and this is a cool project! :D
